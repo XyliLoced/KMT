@@ -6,7 +6,86 @@ body{
 
 }
 
+.none{
+    display: none !important;
+}
+
 .header{
-    min-height: 900px;
-    background-color: black;
+    height: 900px;
+    color: black;
+    background-image: url(./../img/Group\ 1.svg);
+    background-color: white;
+    background-size:cover;
+    background-position: center center;
+}
+
+.header  a {
+    color: black;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1500px;
+    padding: 0 30px;
+}
+
+.container--header{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+
+.background{
+    max-width: 1920px;
+    position: absolute;
+}
+
+/* NAV */
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    flex-shrink: 0;
+}
+
+/* NAV LIST */
+
+.nav-list{
+    display: flex;
+    column-gap: 22px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.nav-list-item{
+
+}
+
+.nav-list__link{
+    opacity: 0.5;
+}
+
+.nav-list__link--active{
+    opacity: 1;
+}
+
+/* Вход */
+
+.user{
+
+}
+
+.user__avatar{
+    border-radius: 50%;
+}
+
+.user__img{
+    
 }
