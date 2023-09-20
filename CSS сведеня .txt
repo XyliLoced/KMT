@@ -1,0 +1,76 @@
+.fullsved,
+.fullsved1,
+.fullsved2,
+.fullsved3,
+.fullsved4,
+.fullsved5,
+.fullsved6,
+.fullsved7,
+.fullsved8,
+.fullsved9,
+.fullsved10,
+.fullsved11,
+.fullsved12,
+.fullsved13,
+.fullsved14,
+.fullsved15
+{
+    display: inline-block;
+    margin: 50px 20px;
+
+}
+.sved{
+    text-align: center;
+    color: #000000;
+    font-family: "Montserrat", serif;
+    font-weight: 700;
+    font-size: 48px;
+    
+
+}
+.sved_box{
+    background-color:#c1d2ff;
+    height:130px;
+    width:460px;
+    border-radius:20px;
+    padding:0px;
+    z-index: -1;
+    display: inline-block;
+    
+}
+.основныесведения
+{
+
+color:#212121;
+text-align:left;
+vertical-align:text-top;
+font-size:20px;
+font-family:Montserrat;
+line-height:auto;
+border-style:hidden;
+position: relative;
+left:88px;
+top:56px;
+width: 214px;
+display:flex;
+flex-direction: column;
+align-items: flex-start;
+
+
+}
+.box{
+    top: 13px;
+    left: 18px;
+    position:relative;
+    display: inline-block;
+}
+.strelka{
+    background-color:#ffffff;
+
+border-radius:16px;
+padding:0px;
+left:75%;
+top:40%;
+position: relative;
+display: inline-block;
+}

@@ -1,0 +1,113 @@
+<div class="sved">Сведения</div>
+
+            <div class="fullsved" style="margin-left: 320px;height: 100px;"></div>
+            <div class="sved_box">
+                <div class="основныесведения">Основные сведения</div>
+                <img class="box" src="./img/Сведения/box.svg"></img>
+                <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+            </div>
+            </div>
+            
+            <div class="fullsved2"> </div>
+            <div class="sved_box">
+                <div class="основныесведения">Основные сведения</div>
+                <img class="box" src="./img/Сведения/box.svg"></img>
+                <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+            </div>
+            </div>
+            <div class="fullsved3"></div>
+            <div class="sved_box">
+                <div class="основныесведения">Основные сведения</div>
+                <img class="box" src="./img/Сведения/box.svg"></img>
+                <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+            </div>
+            </div>
+            <div>
+                <div class="fullsved4" style="margin-left: 320px;"></div>
+                <div class="sved_box">
+                    <div class="основныесведения">Основные сведения</div>
+                    <img class="box" src="./img/Сведения/box.svg"></img>
+                    <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                </div>
+                <div class="fullsved5"></div>
+                <div class="sved_box">
+                    <div class="основныесведения">Основные сведения</div>
+                    <img class="box" src="./img/Сведения/box.svg"></img>
+                    <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                </div>
+                <div class="fullsved6"></div>
+                <div class="sved_box">
+                    <div class="основныесведения">Основные сведения</div>
+                    <img class="box" src="./img/Сведения/box.svg"></img>
+                    <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                </div>
+            </div>
+            <div class="fullsved7" style="margin-left: 320px;"></div>
+            <div class="sved_box">
+                <div class="основныесведения">Основные сведения</div>
+                <img class="box" src="./img/Сведения/box.svg"></img>
+                <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+            </div>
+            <div class="fullsved8"> </div>
+            <div class="sved_box">
+                <div class="основныесведения">Основные сведения</div>
+                <img class="box" src="./img/Сведения/box.svg"></img>
+                <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+            </div>
+            <div class="fullsved9"></div>
+            <div class="sved_box">
+                <div class="основныесведения">Основные сведения</div>
+                <img class="box" src="./img/Сведения/box.svg"></img>
+                <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+            </div>
+            <div>
+                <div class="fullsved10"> </div>
+                <div class="sved_box" style="margin-left: 300px;">
+                    <div class="основныесведения">Основные сведения</div>
+                    <img class="box" src="./img/Сведения/box.svg"></img>
+                    <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                </div>
+                <div class="fullsved9"></div>
+                <div class="sved_box">
+                    <div class="основныесведения">Основные сведения</div>
+                    <img class="box" src="./img/Сведения/box.svg"></img>
+                    <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                </div>
+                <div class="fullsved10"></div>
+                <div class="sved_box">
+                    <div class="основныесведения">Основные сведения</div>
+                    <img class="box" src="./img/Сведения/box.svg"></img>
+                    <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                </div>
+                <div>
+                    <div class="fullsved11" style="margin-left: 320px;"></div>
+                    <div class="sved_box">
+                        <div class="основныесведения">Основные сведения</div>
+                        <img class="box" src="./img/Сведения/box.svg"></img>
+                        <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                    </div>
+                    <div class="fullsved12">
+                    </div>
+                    <div class="sved_box">
+                        <div class="основныесведения">Основные сведения</div>
+                        <img class="box" src="./img/Сведения/box.svg"></img>
+                        <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                    </div>
+                    <div class="fullsved13">
+                    </div>
+                    <div class="sved_box">
+                        <div class="основныесведения">Основные сведения</div>
+                        <img class="box" src="./img/Сведения/box.svg"></img>
+                        <img class="strelka" src="./img/Сведения/arrow-right.svg"></img>
+                    </div>
+            
+                    <div>
+                        <div>
+                            
+                    
+                    
+                    
+                    </div>
+            </div> 
+            
+        </div>
